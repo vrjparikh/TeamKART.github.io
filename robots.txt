@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /confirm.html
+Disallow: /unsubscribe/
+Disallow: /404.jpg
+
+Sitemap: http://www.teamkart.in/sitemap.xml
